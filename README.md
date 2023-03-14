@@ -10,6 +10,7 @@ This week I learned how to use _Italics_ in markdown and numerous git commands.
 ![My pet rat Cookie](https://lh3.googleusercontent.com/pw/AMWts8AEdbBQsQFrnPSDW5UfrD7soB5dHMr8GsHOnpg97apMJu_tlFNGo6dwu4pt4K6gtCBG7t2CPvLxiNDXoCz8nTDbb0Lf36YWraA_MJo1afLxiF_Esru4UiYfwhrPCql4GpErKcCWAUKdemRJDDNPYPjlGg=w929-h866-no?authuser=0)
 
 ## Alexander Forward
-This week I learned how to use _git through visual_ to collaborate with my team. This skills will definitely come in handy in teh future when I am 
-working with other on the same project. 
+This week I learned how to use _git through visual studio_ to collaborate with my team. This skill will definitely come in handy in the future when I am 
+working with others on the same project.
+
 ![What I feel like when my code compiles the first time](https://wallpapersmug.com/download/320x480/54e690/spaceman-fantasy-clouds-art.jpg)
