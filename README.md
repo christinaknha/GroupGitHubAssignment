@@ -14,3 +14,7 @@ This week I learned how to use _git through visual studio_ to collaborate with m
 working with others on the same project.
 
 ![What I feel like when my code compiles the first time](https://wallpapersmug.com/download/320x480/54e690/spaceman-fantasy-clouds-art.jpg)
+
+### Kelan Blash
+This week I learned how to use _Git and Github_ to move files from a remote repository to a local and back.
+![How I am feeling after week two!](https://www.coogfans.com/uploads/db5902/original/3X/8/1/81173237ffa580ef710b0862fdddaac163274db1.jpeg) 
