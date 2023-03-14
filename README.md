@@ -15,6 +15,10 @@ working with others on the same project.
 
 ![What I feel like when my code compiles the first time](https://wallpapersmug.com/download/320x480/54e690/spaceman-fantasy-clouds-art.jpg)
 
-### Kelan Blash
+# Kelan Blash
 This week I learned how to use _Git and Github_ to move files from a remote repository to a local and back.
 ![How I am feeling after week two!](https://www.coogfans.com/uploads/db5902/original/3X/8/1/81173237ffa580ef710b0862fdddaac163274db1.jpeg) 
+
+##### Darranda Foy
+This week I learned how important communication can be when working with a team in the field, how to utilize Vs Code and how to use Git Hub. I also learned the different _git commands and what they mean_.
+![just a cute animal](https://hackbrightacademy.com/content/uploads/2016/01/puppy-coding.jpg)
